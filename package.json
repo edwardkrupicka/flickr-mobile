@@ -4,6 +4,8 @@
   "homepage": "https://edwardkrupicka.github.io/flickr-mobile/",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
