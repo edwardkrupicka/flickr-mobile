@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { View, Text, ActivityIndicator } from 'react-native';
 import { Image } from 'react-native-elements';
 
-const ImageCard = ({ element }) => {
+const ImageCard = ({ element, setAPIBusy }) => {
 
 	return (
 		<View >
