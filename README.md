@@ -2,7 +2,7 @@
 My first React-Native application.
 
 ### Abstract
-A React-Native IOS mobile application that can search the Flickr api and display an infinite scrolling grid of images based of the search input.
+A React-Native IOS mobile application that can search the Flickr api and display an infinite scrolling grid of images based on the search input.
 
 ![cat-search](https://user-images.githubusercontent.com/87044013/170363934-eabcbd79-494e-418a-9e3e-c4394eecd8f6.gif)
 ![infinite-scroll](https://user-images.githubusercontent.com/87044013/170363960-75e46f37-8307-49bd-aa49-27b65b3b8b44.gif)
