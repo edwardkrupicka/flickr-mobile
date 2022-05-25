@@ -8,7 +8,7 @@ A React-Native IOS mobile application that can search the Flickr api and display
 ![infinite-scroll](https://user-images.githubusercontent.com/87044013/170363960-75e46f37-8307-49bd-aa49-27b65b3b8b44.gif)
 
 ### Goals 
-The main goal of this application was to learn the basics of React Native and gain exposure to mobile applications. I based this project off of a coding techinical challenge that I created in React as a web application [Flickr Image Search App](https://edwardkrupicka.github.io/flickr-search/).
+The main goal of this application was to learn the basics of React Native and gain exposure to mobile applications. I based this project off of a coding techinical challenge that I created in React as a web application - [Flickr Image Search App](https://edwardkrupicka.github.io/flickr-search/).
 
 ### Technology Used
 - React-Native
